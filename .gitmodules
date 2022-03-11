@@ -1,0 +1,6 @@
+[submodule "dataservice"]
+	path = dataservice
+	url = https://github.com/glide-ui/dataservice.git
+[submodule "src/dataservice"]
+	path = src/dataservice
+	url = https://aman-glide@github.com/glide-ui/dataservice.git
